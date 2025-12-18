@@ -33,6 +33,6 @@ The simulation successfully reproduces realistic trebuchet motion and illustrate
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/TrebuchetDynamicsSim.git
+   git clone https://github.com/Thunder88Mint/TrebuchetDynamicsSim.git
    ```
 2. Run Trebuchet_Simulation.m
