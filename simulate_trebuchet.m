@@ -1,4 +1,4 @@
-function [theta,phi,x,y,N,T] = greener(theta0,phi0,x0,y0,t,mp,mw,dw)
+function [theta,phi,x,y,N,T] = simulate_trebuchet(theta0,phi0,x0,y0,t,mp,mw,dw)
 
 % Unit Convert Inputs
 theta0 = theta0 *pi/180;    % rad
@@ -210,6 +210,7 @@ function [xdot,lambda] = trebuchet(t,x,mp,ma,mw,I_AO,I_WG,dr,da,dw,dg,mu,g)
     
 
 end
+
 
 
 
